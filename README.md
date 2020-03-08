@@ -6,3 +6,4 @@
 * [ ] full the root dir form *101 Advanced Mathematics* to *410 Electronic Measurement Basics (for Superconducting)*
 * [ ] establish a website about the AppliedPhysicsNotes
 * [ ] add extensions about Differential Geometry & Tensor Analysis
+* [ ] uplode teaching materials
